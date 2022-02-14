@@ -1,0 +1,25 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+.pagination button {
+    width: 70px;
+    height: 35px;
+    background: #7fad7f;
+    margin: 7px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 3px #325632;
+}
+
+.pagination input {
+    width: 35px;
+    height: 17px;
+    background: #c9c9c9;
+
+}
+
+

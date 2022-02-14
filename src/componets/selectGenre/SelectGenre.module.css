@@ -1,0 +1,18 @@
+.select {
+    color: brown;
+    position: absolute;
+    margin-top: -65px;
+    margin-left: 60px;
+}
+
+.select select {
+    width: 400px;
+    height: 40px;
+    font-size: 30px;
+    color: #040710;
+    background: #c9c9c9;
+    border-radius: 5px;
+    border: 3px solid #468d46;
+    box-sizing: border-box;
+}
+

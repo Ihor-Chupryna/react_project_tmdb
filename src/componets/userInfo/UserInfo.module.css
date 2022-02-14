@@ -1,0 +1,12 @@
+.user {
+    width: 70px;
+    height: 70px;
+    background: #227522;
+    border-radius: 100%;
+    border: 1px solid black;
+}
+
+.user p {
+    font-size: 20px;
+    text-align: center;
+}

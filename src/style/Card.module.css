@@ -1,0 +1,30 @@
+.card {
+    width: 9vw;
+    height: 33vh;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.card img {
+    width: 90%;
+    border-radius: 7px;
+    margin: 5%;
+    box-shadow: 10px 10px 3px 4px #325632;
+}
+
+.card h3 {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.card p {
+    font-size: 17px;
+    padding-left: 15px;
+    margin-top: 10px;
+}
+
+.card span {
+    color: #ad1515;
+}
+
